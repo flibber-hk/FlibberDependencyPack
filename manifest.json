@@ -9,8 +9,9 @@
     "flibber-CanvasUtil-1.0.0",
     "silksong_modding-I18N-1.0.2",
     "silksong_modding-UnityHelper-1.0.1",
-    "silksong_modding-FsmUtil-0.3.2"
+    "silksong_modding-FsmUtil-0.3.2",
+    "silksong_modding-SilksongPrepatcher-1.1.1"
   ],
   "website_url": "https://github.com/flibber-hk/FlibberDependencyPack",
-  "FullName": "flibber-RecentItemsDisplay"
+  "FullName": "flibber-FlibberDependencyPack"
 }
