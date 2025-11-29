@@ -2,7 +2,7 @@
   "namespace": "flibber",
   "name": "FlibberDependencyPack",
   "description": "Commonly used dependencies for Silksong Modding.",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "dependencies": [
     "BepInEx-BepInExPack_Silksong-5.4.2304",
     "MonoDetour-MonoDetour_BepInEx_5-0.7.5",
